@@ -12,6 +12,7 @@ html, body{
 }
 a {
   text-decoration: none;
+  color: #4D4D4D;
 }
 h1{
   text-align: center;
@@ -19,6 +20,9 @@ h1{
   font-size: 300%;
   color: white;
   letter-spacing: 3px;
+}
+h3{
+  color: #4D4D4D;
 }
 h4{
   color: white;
