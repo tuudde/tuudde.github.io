@@ -20,6 +20,9 @@ h1{
   color: white;
   letter-spacing: 3px;
 }
+h3{
+  color: #4D4D4D;
+}
 h4{
   color: white;
   font-size: 150%;
@@ -48,10 +51,14 @@ p{
     background-color: rgba(255, 255, 255, 0.5);
 }
 .about-me-spec-case{
-    height: 60vh;
-    width: 100%;
-    margin-top: -2%;
-    background-color: rgba(255, 255, 255, 0.5);
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  height: 60%;
+  width: 90%;
+  margin-top: -2%;
+    /*background-color: rgba(255, 255, 255, 0.75);*/
 }
 .about-me-flex{
   display: flex;
@@ -64,8 +71,11 @@ p{
   flex-wrap: wrap;
   width: 40%;
   height: 20%;
-  margin-top: 1%;
+  margin-top: -1%;
   line-height: 175%;
+}
+.light-text{
+  color: white;
 }
 .arrow{
   width: 60px;
@@ -96,8 +106,15 @@ p{
 .case-pic{
   height: 200px;
   width: auto;
-  margin-right: 5%;
+  margin-right: 2%;
   margin-left: -5%;
+}
+.case-pic:hover{
+  -moz-transform: translate(40px, -100px) scale(2);
+  -webkit-transform: translate(40px, -100px) scale(2);
+  position: relative;
+  transition: .5s ease;
+  transform: translate(40px, -100px) scale(2);
 }
 .cases{
     /*height: 60%;*/
@@ -168,6 +185,17 @@ p{
   transform: scale(1.2);
   position: relative;
   transition: .5s ease;
+}
+.light-text{
+  color: white;
+}
+.light-title{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 3%;
+  color: white;
 }
 .logo{
   width: 95%;
@@ -316,11 +344,26 @@ p{
 }
 .skillset-flex{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 5%;
   margin-top: 3%;
+}
+.skillset-description{
+  text-align: center;
+  margin-top: -2%;
+}
+.skillset-img{
+  width: 100%;
+}
+.skillset-item{
+  width: 200px;
+  margin-top: -10px;
+  margin-bottom: -30px;
 }
 .text-grey{
   opacity: 0;
