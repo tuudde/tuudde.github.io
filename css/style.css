@@ -85,7 +85,7 @@ p{
       margin-left: 38% !important;
     }
     .main-nav{
-      width: 300px !important;
+      width: 320px !important;
       padding-top: 7%;
     }
     .nav{
@@ -95,7 +95,7 @@ p{
     .main-nav-cases{
       width: 100px !important;
       height: 100px !important;
-      margin-left: -3% !important;
+      margin-left: -5% !important;
     }
     .main-nav-scrolled {
       margin-left: -400px !important;
@@ -335,6 +335,7 @@ p{
 }
 .main-nav-cases{
     text-align: center;
+    margin-left: 4%;
 }
 .main-nav-scrolled {
   position: fixed;
