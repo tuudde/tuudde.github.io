@@ -37,6 +37,17 @@ p{
   color: #4D4D4D;
   text-decoration: none;
 }
+@media screen and (max-width: 600px) {
+    .desktop {
+        display: none;
+    }
+    html, body{
+        height: 100%;
+        width: 100%;
+        background: url("pics/phone_bg.png") fixed center;
+        background-size: cover;
+    }
+}
 .about-me{
     /*height: 60%;*/
     width: 100%;
@@ -71,7 +82,7 @@ p{
   flex-wrap: wrap;
   width: 40%;
   height: 20%;
-  margin-top: -1%;
+  margin-top: 1%;
   line-height: 175%;
 }
 .light-text{
@@ -92,7 +103,7 @@ p{
 }
 .cases-flex{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   align-items: center;
   width: 75%;
@@ -101,13 +112,14 @@ p{
 }
 .case{
   width: 200px;
-  height: 210px;
+  height: 200px;
 }
 .case-pic{
   height: 200px;
   width: auto;
   margin-right: 2%;
   margin-left: -5%;
+  border: solid 1px white;
 }
 .case-pic:hover{
   -moz-transform: translate(40px, -100px) scale(2);
@@ -124,9 +136,9 @@ p{
     padding-bottom: 4%;
 }
 .cases-img{
-  height: 200px;
-  width: auto;
-  margin: 0;
+  width: 200px;
+  height: auto;
+  border: solid 1px white;
 }
 .cases-img:hover{
   -moz-transform: scale(1.075);
@@ -368,20 +380,24 @@ p{
 .text-grey{
   opacity: 0;
   transition: all 0.2s;
-  margin-top: -18px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
+  margin-top: -70%;
+  font-family: 'Poiret One', cursive;
+  font-size: 300%;
   text-align: center;
   color: #4D4D4D;
+  text-shadow: .3px .3px #000000;
+  pointer-events: none;
 }
 .text-white{
   opacity: 0;
   transition: all 0.2s;
-  margin-top: -18px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
+  margin-top: -70%;
+  font-family: 'Poiret One', cursive;
+  font-size: 300%;
   text-align: center;
   color: white;
+  text-shadow: .3px .3px #000000;
+  pointer-events: none;
 }
 .case:hover .text-grey{
     opacity: 1;
