@@ -37,9 +37,7 @@ p{
   color: #4D4D4D;
   text-decoration: none;
 }
-@media only screen
-  and (min-width: 375px) 
-  and (max-width: 812px) {
+@media (max-width: 800px) {
     .desktop {
         display: none;
     }
