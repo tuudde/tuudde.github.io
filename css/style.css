@@ -38,7 +38,7 @@ p{
   text-decoration: none;
 }
 @media (max-width: 812px) {
-    .desktop {
+    /*.desktop {
         display: none;
     }
     html, body{
@@ -46,7 +46,7 @@ p{
         width: 100%;
         background: url("pics/phone_bg.png") fixed center;
         background-size: cover;
-    }
+    }*/
 }
 .about-me{
     /*height: 60%;*/
