@@ -98,7 +98,7 @@ p{
       margin-left: -3% !important;
     }
     .main-nav-scrolled {
-      margin-left: 400px !important;
+      margin-left: -400px !important;
     }
     .skillset-flex{
       justify-content: center;
