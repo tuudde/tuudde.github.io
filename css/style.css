@@ -37,6 +37,15 @@ p{
   color: #4D4D4D;
   text-decoration: none;
 }
+@media (min-width: 900px) {
+        .case-pic:hover {
+          -moz-transform: translate(0, -100px) scale(2);
+          -webkit-transform: translate(0, -100px) scale(2);
+          position: relative;
+          transition: .5s ease;
+          transform: translate(0, -100px) scale(2);
+        }
+    }
 @media (max-width: 812px) {
     /*.desktop {
         display: none;
@@ -47,6 +56,58 @@ p{
         background: url("pics/phone_bg.png") fixed center;
         background-size: cover;
     }*/
+    .about-me-flex{
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+    .about-me-namn{
+      width: 90vw !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      padding-top: 3%;
+    }
+    .contacts{
+      display: none;
+    }
+    .light-title{
+      padding-top: 30% !important;
+    }
+    .logo{
+      width: 200px !important;
+      height: 200px !important;
+      margin-left: -60% !important;
+      padding-top: 30% !important;
+    }
+    .logo-scroll{
+      width: 200px !important;
+      height: 200px !important;
+      margin-left: 38% !important;
+    }
+    .main-nav{
+      width: 300px !important;
+      padding-top: 7%;
+    }
+    .nav{
+      font-size: 100% !important;
+      margin-left: 40% !important;
+    }
+    .main-nav-cases{
+      width: 100px !important;
+      height: 100px !important;
+      margin-left: -3% !important;
+    }
+    .main-nav-scrolled {
+      margin-left: 400px !important;
+    }
+    .skillset-flex{
+      justify-content: center;
+      flex-direction: column;
+    }
+    .skillset-item{
+      padding-bottom: 50px;
+      padding-top: 50px;;
+    }
 }
 .about-me{
     /*height: 60%;*/
@@ -85,9 +146,6 @@ p{
   margin-top: 1%;
   line-height: 175%;
 }
-.light-text{
-  color: white;
-}
 .arrow{
   width: 60px;
   height: 60px;
@@ -114,6 +172,12 @@ p{
   width: 200px;
   height: 200px;
 }
+.case-spec-flex{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2%;
+}
 .case-pic{
   height: 200px;
   width: auto;
@@ -121,13 +185,13 @@ p{
   margin-left: -5%;
   border: solid 1px white;
 }
-.case-pic:hover{
-  -moz-transform: translate(40px, -100px) scale(2);
-  -webkit-transform: translate(40px, -100px) scale(2);
+/*.case-pic:hover{
+  -moz-transform: translate(0, -100px) scale(2);
+  -webkit-transform: translate(0, -100px) scale(2);
   position: relative;
   transition: .5s ease;
-  transform: translate(40px, -100px) scale(2);
-}
+  transform: translate(0, -100px) scale(2);
+}*/
 .cases{
     /*height: 60%;*/
     width: 100%;
@@ -263,23 +327,24 @@ p{
   color: white;
   font-family: 'Open Sans', sans-serif;
   text-decoration: underline;
-  margin: 18px;
   margin-top: -100px;
-  align-items: center;
   font-size: 100%;
 }
 .main-nav{
+    text-align: center;
+}
+.main-nav-cases{
     text-align: center;
 }
 .main-nav-scrolled {
   position: fixed;
   left: 0;
   text-align: center;
-  width: 100px;
+  width: 91px;
   height: 100px;
   margin-left: 50px;
   font-size: 0;
-  background-image: url("pics/logo_namn_grey.svg");
+  background: url("pics/logo_namn_grey.svg");
 }
 .main-nav-scrolled:after {
     content: '';
