@@ -100,6 +100,9 @@ p{
     .main-nav-scrolled {
       margin-left: -400px !important;
     }
+    .para1 {
+      background: url("pics/background.png") fixed center !important;
+    }
     .skillset-flex{
       justify-content: center;
       flex-direction: column;

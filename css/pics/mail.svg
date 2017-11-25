@@ -3,15 +3,19 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 253 217" style="enable-background:new 0 0 253 217;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#4D4D4D;}
-	.st1{font-family:'anticon';}
-	.st2{font-size:288px;}
+	.st0{enable-background:new    ;}
+	.st1{fill:#4D4D4D;}
 </style>
 <title>mail - anticon</title>
 <desc>Created with Sketch.</desc>
 <g id="Page-1">
 	<g id="all" transform="translate(-555.000000, -1433.000000)">
-		<text transform="matrix(1 0 0 1 538 1649)" class="st0 st1 st2"></text>
+		<g class="st0">
+			<path class="st1" d="M801.5,1438.9c3.9,3.9,5.9,8.7,5.9,14.3v176.1c0,5.6-2,10.4-5.9,14.3s-8.7,5.9-14.3,5.9H575.4
+				c-5.6,0-10.4-2-14.3-5.9s-5.9-8.7-5.9-14.3v-176.1c0-5.6,2-10.4,5.9-14.3s8.7-5.9,14.3-5.9h211.8
+				C792.8,1433,797.6,1435,801.5,1438.9z M787.2,1629.3v-167.9l-83.8,70c-5.8,6-12.9,9-21.4,9s-15.6-2.9-21.4-8.7l-85.2-70.3v167.9
+				H787.2z M597.1,1453.2l77.1,63.6l0.6,0.3c1.9,2.1,4.2,3.1,7,3.1h0.3c2.8,0,5.2-1,7.3-3.1l0.3-0.6l0.6-0.3l75.4-63H597.1z"/>
+		</g>
 	</g>
 </g>
 </svg>

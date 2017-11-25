@@ -1,12 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="133px" height="108px" viewBox="0 0 133 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>ion-social-twitter - Ionicons</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="144" font-family="Ionicons" font-weight="400">
-        <text id="ion-social-twitter---Ionicons" fill="#FFFFFF">
-            <tspan x="0" y="108"></tspan>
-        </text>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 133 108" style="enable-background:new 0 0 133 108;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+</style>
+<title>ion-social-twitter - Ionicons</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g class="st0">
+		<path class="st1" d="M132.8,12.9c-3.4,5.3-7.9,9.9-13.5,14.1v3.4c0,19.7-7.1,37.5-21.2,53.6c-14.2,16-33,24-56.4,24
+			c-15,0-28.9-4.1-41.6-12.4c3,0.4,5.2,0.6,6.5,0.6c12.6,0,23.8-3.9,33.8-11.8c-5.8-0.2-11.1-2-15.8-5.5c-4.7-3.5-7.9-7.9-9.6-13.4
+			c2.2,0.4,3.9,0.6,5.1,0.6c1.9,0,4.3-0.4,7.3-1.1c-6.2-1.3-11.4-4.5-15.6-9.4c-4.2-5-6.3-10.7-6.3-17.3V38
+			c4.1,2.2,8.2,3.4,12.4,3.4C9.7,36.1,5.6,28.5,5.6,18.6c0-4.7,1.2-9.2,3.7-13.5c14.4,17.8,33.1,27.3,56,28.4
+			c-0.4-1.3-0.6-3.4-0.6-6.2c0-7.7,2.6-14.2,7.9-19.4C77.8,2.6,84.3,0,92,0c7.7,0,14.2,2.9,19.7,8.7c5.6-0.9,11.4-3.2,17.4-6.8
+			c-1.9,6.6-5.9,11.6-12.1,15.2C122.8,16.6,128.1,15.2,132.8,12.9z"/>
+	</g>
+</g>
 </svg>
