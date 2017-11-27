@@ -73,6 +73,9 @@ p{
     .header{
       margin-top: -60% !important;
     }
+    .header-cases{
+      margin-left: 2% !important;
+    }
     .light-title{
       padding-top: 30% !important;
     }
