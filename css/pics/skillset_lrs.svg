@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#4D4D4D;enable-background:new    ;}
+	.st1{font-family:'Charter-Roman';}
+	.st2{font-size:690px;}
+	.st3{fill:#4D4D4D;}
+	.st4{font-size:110px;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:#AAD1EB;}
+</style>
+<g id="lower-letter">
+	<text transform="matrix(1 0 0 1 488.2734 946.6895)" class="st0 st1 st2">r</text>
+	<text transform="matrix(1 0 0 1 481.5999 790.0427)" class="st3 st1 st4">Lightroom</text>
+	<polygon class="st5" points="301,955 915,86 361,34 3,1047 	"/>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="283.8168" cy="751.3147" r="0.2086" gradientTransform="matrix(2291.6716 0 0 -2218.7549 -649975.75 1667358)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#39464D;stop-opacity:0.98"/>
+			<stop  offset="1" style="stop-color:#05151F"/>
+		</radialGradient>
+		<path class="st6" d="M313.9,848.3c1.3-6.8,3.4-13.5,5.9-19.9c8-20.1,16.5-38.9,28-57.1c6.6-10.4,13.7-20.5,20.6-30.7
+			c7.8-11.5,14.9-23.4,22.5-35.1c15.9-24.4,32.8-48.1,50.5-71.2c22.4-29.2,45.5-57.6,69.6-85.4c17.1-19.8,33.6-40,49.7-60.6
+			c13.6-17.8,26.9-35.8,40-53.9c26.1-36.1,52-72.7,76.1-110.1c18.5-28.6,38-56.7,53.9-86.8H231.9v611.9h81.7
+			C313.7,849.1,313.8,848.7,313.9,848.3z"/>
+		<path class="st7" d="M445.8,628.8h-5.2V364c0-2.5-0.6-3.4-2.9-3.4h-45.2c-2.5,0-3.4,1.4-3.4,3.7v307.4c0,2.9,0.9,4.3,4.3,4.3v0.2
+			h17.4c9.9-14.1,20.1-28.1,30.6-41.8C442.8,632.6,444.3,630.7,445.8,628.8z"/>
+		<path class="st7" d="M313.6,849.5h-81.7V237.6h498.8c2.3-4.3,4.5-8.7,6.6-13.1c1.8-5.4,4-10.6,6.7-15.5H203.3v669.1h106.3
+			C310.2,868.5,311.9,858.8,313.6,849.5z"/>
+	</g>
+	<polyline class="st3" points="610,540 610,519 297,955.8 313,955.8 537.6,636.5 	"/>
+</g>
+<g id="upper-letter">
+	<text transform="matrix(1 0 0 1 143.2734 587.6895)" class="st0 st1 st2">P</text>
+	<path class="st3" d="M427,613c1.4,3.3,4.9,14.7,5,15l358-503.7h-16.5c-0.3-0.8-301.7,426.9-302,426"/>
+	<polygon class="st5" points="426,628 789,124 840.5,197.6 276.4,984.8 148,1023 	"/>
+</g>
+<g id="Layer_3">
+</g>
+</svg>

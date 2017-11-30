@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFAE00;}
+	.st1{fill:#EC6C00;}
+	.st2{fill:#FFEFB4;}
+	.st3{fill:#FED305;}
+</style>
+<g id="lower-letter">
+	<g>
+		<title>Group</title>
+		<desc>Created with Sketch.</desc>
+		<g id="Page-1_1_">
+			<g id="Sketch-Flat-Logo_1_" transform="translate(-9.000000, -28.000000)">
+				<g id="Group_1_" transform="translate(9.000000, 28.000000)">
+					<g id="Base_1_">
+						<polygon id="Polygon_15_" class="st0" points="562,939.3 179,494.2 344.9,269.4 562,246.1 779.1,269.4 945,494.2 						"/>
+					</g>
+					<g id="Bottom-Back_1_" transform="translate(0.000000, 160.000000)">
+						<polygon id="Polygon_14_" class="st1" points="562,779 179,334 945,334 						"/>
+					</g>
+					<g id="Bottom-Mid_1_" transform="translate(100.000000, 160.000000)">
+						<polygon id="Polygon_13_" class="st0" points="462,779 234.1,334 689.9,334 						"/>
+					</g>
+					<g id="Top-Mid_1_" transform="translate(100.000000, 0.000000)">
+						<polygon id="Polygon_12_" class="st2" points="462,245.9 234.1,494 689.9,494 						"/>
+					</g>
+					<g id="Top-Side-Left_1_" transform="translate(0.000000, 15.000000)">
+						<polygon id="Polygon_11_" class="st0" points="344.9,254.2 259.6,367.4 179,479 335.6,479 						"/>
+					</g>
+					
+						<g id="Top-Side-Right_1_" transform="translate(440.500000, 87.500000) scale(-1, 1) translate(-440.500000, -87.500000) translate(387.000000, 15.000000)">
+						<polygon id="Polygon_10_" class="st0" points="-285.1,254.2 -370.4,367.4 -451,479 -294.4,479 						"/>
+					</g>
+					<g id="Top-Left_1_" transform="translate(100.000000, 0.000000)">
+						<polygon id="Polygon_9_" class="st3" points="244.9,269.4 234.1,494.2 462,246.1 						"/>
+					</g>
+					<g id="Top-Right_1_" transform="translate(247.000000, 0.000000)">
+						<polygon id="Polygon_8_" class="st3" points="532.1,269.4 542.9,494.2 315,246.1 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4D4D4D;}
+	.st1{font-family:'Charter-Roman';}
+	.st2{font-size:190px;}
+	.st3{display:none;enable-background:new    ;}
+	.st4{display:inline;fill:#4D4D4D;}
+	.st5{fill:#FFFFFF;}
+</style>
+<g id="lower-letter">
+	<text transform="matrix(1 0 0 1 0.8936 611.0731)" class="st0 st1 st2">Premiere Pro</text>
+	<polyline class="st0" points="610,540 610,519 297,955.8 313,955.8 537.6,636.5 	"/>
+</g>
+<g id="upper-letter">
+	<g class="st3">
+		<path class="st4" d="M151,379.7h76v12.4l-19.2,1.8l-5.3,4.4v112.2c0,21.7,4.4,37.4,13.1,47.2c8.7,9.7,22.8,14.6,42.2,14.6
+			c19.2,0,33.1-4.9,41.9-14.8c8.8-9.8,13.2-25.5,13.2-47v-110l-5.9-5.6l-18.6-2.7v-12.4h65.5v12.4l-18.6,2.7l-5.6,5.6v112.8
+			c0,14.8-1.1,26.2-3.2,34.1s-5.6,14.7-10.4,20.6c-6.2,7.4-14.9,13.1-26.1,17.3c-11.3,4.2-23.9,6.3-38.1,6.3
+			c-14.2,0-26.9-2.1-38.1-6.3c-11.2-4.2-19.9-10-26-17.3c-4.9-6-8.5-12.8-10.5-20.6c-2.1-7.8-3.1-19.1-3.1-34.1v-115l-5.3-4.4
+			l-17.7-1.8v-12.4H151z"/>
+		<path class="st4" d="M361.8,379.7h74.6v12.4l-18.6,1.8l-2.4,3.8l40.6,63.7l44-62.5l-2.7-4.1l-18-2.7v-12.4h63.3v12.4l-20,3
+			l-56.6,81l60.1,95.1l21,3.8v12.7h-78.4V575l20.7-2.1l2.3-4.4L448,498.1l-49,69.5l2,5.6l20.7,1.8v12.7h-66V575l20.4-4.1l62.2-87
+			l-56-87.8l-20.4-3.9v-12.5L361.8,379.7L361.8,379.7z"/>
+	</g>
+	<path class="st0" d="M427,613c1.4,3.3,4.9,14.7,5,15l358-503.7h-16.5c-0.3-0.8-301.7,426.9-302,426"/>
+	<polygon class="st5" points="427,628 790,124 860.2,165.2 648.8,464.9 391.4,824 149,1023 	"/>
+</g>
+<g id="Layer_3">
+</g>
+</svg>
