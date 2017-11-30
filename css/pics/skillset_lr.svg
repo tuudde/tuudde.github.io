@@ -3,21 +3,36 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#ADD5EA;}
+	.st0{display:none;fill:#4D4D4D;enable-background:new    ;}
 	.st1{font-family:'Charter-Roman';}
 	.st2{font-size:690px;}
 	.st3{fill:#FFFFFF;}
-	.st4{fill:#4D4D4D;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:#AAD1EB;}
+	.st6{fill:#4D4D4D;}
 </style>
 <g id="lower-letter">
 	<text transform="matrix(1 0 0 1 488.2734 946.6895)" class="st0 st1 st2">r</text>
 	<polygon class="st3" points="301,955 915,86 361,34 3,1047 	"/>
-	<polyline class="st4" points="610,540 610,519 297,955.8 313,955.8 537.6,636.5 	"/>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="-183.979" cy="751.1849" r="0.2086" gradientTransform="matrix(2291.6716 0 0 -2218.7549 422058.5938 1667070)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#39464D;stop-opacity:0.98"/>
+			<stop  offset="1" style="stop-color:#05151F"/>
+		</radialGradient>
+		<path class="st4" d="M231.9,237.6H861v611.9H231.9V237.6z"/>
+		<path class="st5" d="M231.9,237.6H861v611.9H231.9V237.6z M203.3,878.1h686.3V209H203.3V878.1z M605,490.7c0-3.4,0-11.7-1.4-27.7
+			c0-2.3,0.6-2.9,2.3-3.7c17.4-7.1,58.9-19.7,105.2-19.7c2.3,0,3.4,0.6,3.4,2.9v41.2c0,2.3-0.9,2.9-3.4,2.9
+			c-18-0.9-44.6,1.4-54.6,5.7v180.4c0,2.3-0.9,3.4-3.4,3.4h-44.9c-2.3,0-3.4-0.9-3.4-3.4V490.7L605,490.7L605,490.7L605,490.7z
+			 M393.4,676c-3.4,0-4.3-1.4-4.3-4.3V364.3c0-2.3,0.9-3.7,3.4-3.7h45.2c2.3,0,2.9,0.9,2.9,3.4v264.8h117.8c2.3,0,3.1,0.9,2.6,3.4
+			l-7.1,40.6c-0.6,2.3-2,3.4-4.3,3.4H393.4V676z"/>
+	</g>
+	<polyline class="st6" points="610,540 610,519 297,955.8 313,955.8 537.6,636.5 	"/>
 </g>
 <g id="upper-letter">
-	<text transform="matrix(1 0 0 1 143.2734 587.6895)" class="st0 st1 st2">L</text>
-	<path class="st4" d="M427,613c1.4,3.3,4.9,14.7,5,15l358-503.7h-16.5c-0.3-0.8-301.7,426.9-302,426"/>
-	<polygon class="st3" points="427,628 790,124 828,196 382,820 149,1023 	"/>
+	<text transform="matrix(1 0 0 1 143.2734 587.6895)" class="st0 st1 st2">P</text>
+	<path class="st6" d="M427,613c1.4,3.3,4.9,14.7,5,15l358-503.7h-16.5c-0.3-0.8-301.7,426.9-302,426"/>
+	<polygon class="st3" points="426,628 789,124 840.5,197.6 276.4,984.8 148,1023 	"/>
 </g>
 <g id="Layer_3">
 </g>
