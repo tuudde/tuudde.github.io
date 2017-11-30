@@ -37,94 +37,6 @@ p{
   color: #4D4D4D;
   text-decoration: none;
 }
-@media (min-width: 900px) {
-        .case-pic:hover {
-          -moz-transform: translate(0, -100px) scale(2);
-          -webkit-transform: translate(0, -100px) scale(2);
-          position: relative;
-          transition: .5s ease;
-          transform: translate(0, -100px) scale(2);
-        }
-    }
-@media (max-width: 812px) {
-    /*.desktop {
-        display: none;
-    }
-    html, body{
-        height: 100%;
-        width: 100%;
-        background: url("pics/phone_bg.png") fixed center;
-        background-size: cover;
-    }*/
-    .about-me-flex{
-      justify-content: center;
-      flex-direction: column;
-      align-items: center;
-    }
-    .about-me-namn{
-      width: 90vw !important;
-      margin-left: auto !important;
-      margin-right: auto !important;
-      padding-top: 3%;
-    }
-    .contacts{
-      display: none;
-    }
-    .header{
-      margin-top: -60% !important;
-    }
-    .header-cases{
-      margin-left: 2% !important;
-    }
-    .light-title{
-      padding-top: 30% !important;
-    }
-    .logo{
-      width: 200px !important;
-      height: 200px !important;
-      margin-left: -50% !important;
-      padding-top: 30% !important;
-    }
-    .logo-scroll{
-      width: 200px !important;
-      height: 200px !important;
-      margin-left: 38% !important;
-    }
-    .main-nav{
-      width: 320px !important;
-      padding-top: 7%;
-    }
-    .nav{
-      font-size: 100% !important;
-      margin-left: 40% !important;
-    }
-    .main-nav-cases{
-      width: 100px !important;
-      height: 100px !important;
-      margin-left: -5% !important;
-    }
-    .main-nav-scrolled {
-      margin-left: -400px !important;
-    }
-    .para1 {
-      background: url("pics/empire.jpg") fixed center !important;
-      background-size: cover !important;
-      height: 100vh !important;
-    }
-    .para1-cases {
-      background: url("pics/background.png") fixed center !important;
-      background-size: cover !important;
-      height: 100vh !important;
-    }
-    .skillset-flex{
-      justify-content: center;
-      flex-direction: column;
-    }
-    .skillset-item{
-      padding-bottom: 50px;
-      padding-top: 50px;;
-    }
-}
 .about-me{
     /*height: 60%;*/
     width: 100%;
@@ -221,9 +133,7 @@ p{
   border: solid 1px white;
 }
 .cases-img:hover{
-  -moz-transform: scale(1.075);
-  -webkit-transform: scale(1.075);
-  transform: scale(1.075);
+  opacity: 0.5;
   position: relative;
   transition: .5s ease;
 }
@@ -326,7 +236,6 @@ p{
     display: block;
     margin: auto;
     height: 3px;
-    width: 0px;
     background: transparent;
     transition: width .5s ease, background-color .5s ease;
 }
@@ -466,7 +375,7 @@ p{
   width: 100%;
 }
 .skillset-item{
-  width: 200px;
+  width: 150px;
   margin-top: -10px;
   margin-bottom: -30px;
 }
@@ -541,4 +450,106 @@ p{
 .wrapper{
     height: 100%;
     width: 100%;
+}
+
+@media (min-width: 900px) {
+        .case-pic:hover {
+          -moz-transform: translate(0, -100px) scale(2);
+          -webkit-transform: translate(0, -100px) scale(2);
+          position: relative;
+          transition: .5s ease;
+          transform: translate(0, -100px) scale(2);
+        }
+    }
+@media ( max-width: 812px ) {
+    .about-me-flex{
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+    .about-me-namn{
+      width: 90vw;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 3%;
+    }
+    .case{
+      width: 150px;
+      height: 150px;
+    }
+    .cases-img{
+      width: 150px;
+      height: 150px;
+    }
+    .cases-flex{
+      width: 100%;
+    }
+    .contacts{
+      display: none;
+    }
+    .header{
+      margin-top: -60%;
+    }
+    .header-cases{
+      margin-left: 2%;
+    }
+    .light-title{
+      padding-top: 30%;
+    }
+    .logo{
+      width: 200px;
+      height: 200px;
+      margin-left: -50%;
+      padding-top: 30%;
+    }
+    .logo-scroll{
+      width: 200px;
+      height: 200px;
+      margin-left: 40%;
+    }
+    .main-nav{
+      width: 320px;
+      padding-top: 7%;
+    }
+    .nav{
+      font-size: 100%;
+      margin-left: 40%;
+    }
+    .main-nav-cases{
+      width: 100px;
+      height: 100px;
+      margin-left: -5%;
+    }
+    .main-nav-scrolled {
+      margin-left: -400px;
+    }
+    .para1 {
+      background: url("pics/shadow.jpg") fixed center;
+      background-size: cover;
+      height: 100vh;
+    }
+    .para1-cases {
+      background: url("pics/background.png") fixed center;
+      background-size: cover;
+      height: 100vh;
+    }
+    .skillset{
+      padding-bottom: 20%;
+    }
+    .skillset-description{
+      margin-top: 60px;
+      margin-bottom: -40px;
+    }
+    .skillset-flex{
+      justify-content: center;
+      flex-direction: row;
+      margin-bottom: 0;
+      margin-top: 0;
+      width: 80%;
+    }
+    .skillset-item{
+      height: 50px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
 }

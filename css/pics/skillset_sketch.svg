@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#4D4D4D;}
+	.st1{font-family:'Charter-Roman';}
+	.st2{font-size:690px;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFAE00;}
+	.st5{fill:#EC6C00;}
+	.st6{fill:#FFEFB4;}
+	.st7{fill:#FED305;}
+	.st8{fill:#4D4D4D;}
+</style>
+<g id="lower-letter">
+	<text transform="matrix(1 0 0 1 488.2734 946.6895)" class="st0 st1 st2">r</text>
+	<polygon class="st3" points="301,955 915,86 361,34 3,1047 	"/>
+	<g>
+		<title>Group</title>
+		<desc>Created with Sketch.</desc>
+		<g id="Page-1_1_">
+			<g id="Sketch-Flat-Logo_1_" transform="translate(-9.000000, -28.000000)">
+				<g id="Group_1_" transform="translate(9.000000, 28.000000)">
+					<g id="Base_1_">
+						<polygon id="Polygon_15_" class="st4" points="562,939.3 179,494.2 344.9,269.4 562,246.1 779.1,269.4 945,494.2 						"/>
+					</g>
+					<g id="Bottom-Back_1_" transform="translate(0.000000, 160.000000)">
+						<polygon id="Polygon_14_" class="st5" points="562,779 179,334 945,334 						"/>
+					</g>
+					<g id="Bottom-Mid_1_" transform="translate(100.000000, 160.000000)">
+						<polygon id="Polygon_13_" class="st4" points="462,779 234.1,334 689.9,334 						"/>
+					</g>
+					<g id="Top-Mid_1_" transform="translate(100.000000, 0.000000)">
+						<polygon id="Polygon_12_" class="st6" points="462,245.9 234.1,494 689.9,494 						"/>
+					</g>
+					<g id="Top-Side-Left_1_" transform="translate(0.000000, 15.000000)">
+						<polygon id="Polygon_11_" class="st4" points="344.9,254.2 259.6,367.4 179,479 335.6,479 						"/>
+					</g>
+					
+						<g id="Top-Side-Right_1_" transform="translate(440.500000, 87.500000) scale(-1, 1) translate(-440.500000, -87.500000) translate(387.000000, 15.000000)">
+						<polygon id="Polygon_10_" class="st4" points="-285.1,254.2 -370.4,367.4 -451,479 -294.4,479 						"/>
+					</g>
+					<g id="Top-Left_1_" transform="translate(100.000000, 0.000000)">
+						<polygon id="Polygon_9_" class="st7" points="244.9,269.4 234.1,494.2 462,246.1 						"/>
+					</g>
+					<g id="Top-Right_1_" transform="translate(247.000000, 0.000000)">
+						<polygon id="Polygon_8_" class="st7" points="532.1,269.4 542.9,494.2 315,246.1 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<polyline class="st8" points="610,540 610,519 297,955.8 313,955.8 537.6,636.5 	"/>
+</g>
+<g id="upper-letter">
+	<text transform="matrix(1 0 0 1 143.2734 587.6895)" class="st0 st1 st2">P</text>
+	<path class="st8" d="M427,613c1.4,3.3,4.9,14.7,5,15l358-503.7h-16.5c-0.3-0.8-301.7,426.9-302,426"/>
+	<polygon class="st3" points="426,628 789,124 838,194 378,843 148,1023 	"/>
+</g>
+<g id="Layer_3">
+</g>
+</svg>
