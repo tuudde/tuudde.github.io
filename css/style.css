@@ -44,11 +44,15 @@ p{
     padding-bottom: 4%;
     background-color: white;
 }
+.about-me-pic{
+  height: 250px;
+  width: auto;
+  margin-right: 5%;
+}
 .about-me-cases{
     /*height: 60vh;*/
     width: 100%;
     margin-top: -2%;
-    background-color: rgba(255, 255, 255, 0.5);
 }
 .about-me-spec-case{
   display: flex;
@@ -66,12 +70,19 @@ p{
   flex-wrap: wrap;
   margin-top: 2%;
 }
-.about-me-namn{
+.about-me-text{
   align-self: flex-start;
   flex-wrap: wrap;
   width: 40%;
   height: 20%;
-  margin-top: -1%;
+  margin-top: 4%;
+  line-height: 175%;
+}
+.about-me-text-case{
+  align-self: flex-start;
+  flex-wrap: wrap;
+  width: 40%;
+  height: 20%;
   line-height: 175%;
 }
 .arrow{
@@ -86,6 +97,9 @@ p{
   transform: scale(1.2);
   position: relative;
   transition: .5s ease;
+}
+.bold{
+  font-weight: bold;
 }
 .cases-flex{
   display: flex;
@@ -341,11 +355,6 @@ p{
   margin: 0;
   flex-direction: column;
 }
-.robin{
-  height: 150px;
-  width: auto;
-  margin-right: 5%;
-}
 .row{
   display: inline;
 }
@@ -362,6 +371,17 @@ p{
   flex-wrap: wrap;
   align-items: center;
   width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+.skillset-flex-basic{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 5%;
@@ -467,7 +487,13 @@ p{
       flex-direction: column;
       align-items: center;
     }
-    .about-me-namn{
+    .about-me-text{
+      width: 90vw;
+      margin-left: auto;
+      margin-right: auto;
+      padding-top: 3%;
+    }
+    .about-me-text-case{
       width: 90vw;
       margin-left: auto;
       margin-right: auto;

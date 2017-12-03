@@ -12,7 +12,8 @@
 	.st6{fill:#FFEFB4;}
 	.st7{fill:#FED305;}
 	.st8{fill:#4D4D4D;}
-	.st9{font-size:110px;}
+	.st9{font-family:'OpenSans-Regular';}
+	.st10{font-size:100px;}
 </style>
 <g id="lower-letter">
 	<text transform="matrix(1 0 0 1 488.2734 946.6895)" class="st0 st1 st2">r</text>
@@ -64,5 +65,5 @@
 </g>
 <g id="Layer_3">
 </g>
-<text transform="matrix(1 0 0 1 465.5999 790.0427)" class="st8 st1 st9">Sketch</text>
+<text transform="matrix(1 0 0 1 485.5999 789.0427)" class="st8 st9 st10">Sketch</text>
 </svg>
