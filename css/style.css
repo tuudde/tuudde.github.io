@@ -68,7 +68,6 @@ p{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 2%;
 }
 .about-me-text{
   align-self: flex-start;
@@ -122,9 +121,9 @@ p{
 }
 .case-pic{
   height: 200px;
-  width: auto;
+  max-width: 400px;
   margin-right: 2%;
-  margin-left: -5%;
+  margin-left: -3%;
   border: solid 1px white;
 }
 /*.case-pic:hover{
@@ -143,8 +142,7 @@ p{
 }
 .cases-img{
   width: 200px;
-  height: auto;
-  border: solid 1px white;
+  height: 200px;
 }
 .cases-img:hover{
   opacity: 0.5;
@@ -209,6 +207,7 @@ p{
 .light-title{
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
+  font-size: 175%;
   text-align: center;
   padding-top: 4%;
   padding-bottom: 3%;
@@ -402,23 +401,21 @@ p{
 .text-grey{
   opacity: 0;
   transition: all 0.2s;
-  margin-top: -70%;
+  margin-top: -65%;
   font-family: 'Poiret One', cursive;
   font-size: 200%;
   text-align: center;
   color: #4D4D4D;
-  text-shadow: .3px .3px #000000;
   pointer-events: none;
 }
 .text-white{
   opacity: 0;
   transition: all 0.2s;
-  margin-top: -70%;
+  margin-top: -65%;
   font-family: 'Poiret One', cursive;
-  font-size: 250%;
+  font-size: 200%;
   text-align: center;
   color: white;
-  text-shadow: .3px .3px #000000;
   pointer-events: none;
 }
 .case:hover .text-grey{
@@ -474,11 +471,11 @@ p{
 
 @media (min-width: 900px) {
         .case-pic:hover {
-          -moz-transform: translate(0, -100px) scale(2);
-          -webkit-transform: translate(0, -100px) scale(2);
+          -moz-transform: translate(0) scale(2);
+          -webkit-transform: translate(0) scale(2);
           position: relative;
           transition: .5s ease;
-          transform: translate(0, -100px) scale(2);
+          transform: translate(0) scale(2);
         }
     }
 @media ( max-width: 812px ) {
